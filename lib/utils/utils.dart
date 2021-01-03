@@ -1,0 +1,1 @@
+///Write reuseable small function like validator,time since,image capture etc.

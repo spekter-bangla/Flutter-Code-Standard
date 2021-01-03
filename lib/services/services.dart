@@ -1,0 +1,1 @@
+///Write all network call functions like Get,POST,PUT etc request.
